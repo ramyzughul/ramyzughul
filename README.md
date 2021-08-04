@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @ramyzughul
-- 👀 I’m interested in machine learning in cardiology
-- 🌱 I’m currently learning R
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in machine learning in arrythmias
 - 📫 How to reach me ramy.zughul@outlook.com
 
 <!---
